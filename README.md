@@ -30,4 +30,4 @@ We welcome any contributions or feedback. If you have any suggestions or find an
 
 
 ## Credits
-Developed by [H-kaddour] and [amrakibe] as part of the 1337 Cursus program.
+Developed by [amrakibe] and [H-kaddour] as part of the 1337 Cursus program.

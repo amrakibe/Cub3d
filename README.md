@@ -12,18 +12,22 @@ To run the game, you will need to have C and the MLX library installed on your c
 
 
 for mandatory part
+
 ```bash
 make
 ```
 then you can run the game by
-  ./cub3D maps/map2.cub 
+
+./cub3D maps/map2.cub 
+ 
 bouns part
 
 ```bash
 make bonus
 ```
 then you can run the game by
-  ./cub3D_bonus maps/map3.cub
+ 
+ ./cub3D_bonus maps/map3.cub
 
 ## Contributions
 We welcome any contributions or feedback. If you have any suggestions or find any bugs, please feel free to open an issue or submit a pull request on Github.

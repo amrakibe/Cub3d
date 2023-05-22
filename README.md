@@ -1,6 +1,6 @@
 # cub3D
 
-Cub3D is a 3D game developed by myself and my friend Youssef as part of the 1337 Cursus program. The game is built using C and the MLX library, and utilizes the technique of ray casting to create an immersive and visually stunning experience.
+Cub3D is a 3D game developed by myself and my friend [hkaddour] as part of the 1337 Cursus program. The game is built using C and the MLX library, and utilizes the technique of ray casting to create an immersive and visually stunning experience.
 
 ## Ray Casting
 
